@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: awsmallick1999/react-app
+        image: awsmallick1999/portfolio
 ---
 apiVersion: v1
 kind: Service
